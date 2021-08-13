@@ -1,7 +1,12 @@
 This is the pyschology webapp.
 Pretty sure I'm using the README incorrectly, but it's whatevs for now...
 
-To-Do:
+RESOURCES:
+https://guilfordjournals.com/doi/abs/10.1521/pedi.1992.6.4.343
+https://pubmed.ncbi.nlm.nih.gov/17983306/
+https://courses.jordanbpeterson.com/personality
+
+#To-Do:
 
 Phase 1:
 - NavBar
