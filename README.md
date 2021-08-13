@@ -1,5 +1,5 @@
 This is the pyschology webapp.
-Pretty sure I'm using the README incorrectly, but it's whatevs for now...
+Pretty sure I'm using the README incorrectly, but it's whatever for now...
 
 RESOURCES:
 https://guilfordjournals.com/doi/abs/10.1521/pedi.1992.6.4.343
